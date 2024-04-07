@@ -57,7 +57,7 @@ Pass-in is an application for managing participants in in-person events. The too
 ```bash
 $ git clone https://github.com/leandrorodrigues00/pass-in-api && cd pass-in-api
 
-# Locate the main class PassInApplication.java and run it
+# After opening the project in your IDE, locate the main class `PassInApplication.java` and run it to start the application server.
 
 ```
 
