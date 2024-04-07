@@ -18,7 +18,7 @@ Pass-in is an application for managing participants in in-person events. The too
 ## 🚀 Technologies
 
 - [Java](https://www.java.com/)
-- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Spring](https://spring.io/)
 - [Lombok](https://projectlombok.org/)
 - [HSQLDB (HyperSQL Database)](http://hsqldb.org/)
 - [Flyway](https://flywaydb.org/)
