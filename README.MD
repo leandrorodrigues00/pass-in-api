@@ -6,6 +6,7 @@
   <a href="#-about-the-project">About the project</a> •
   <a href="#-technologies">Technologies</a> •
   <a href="#-Requirements">Requirements</a> •
+  <a href="#-API Documentation">API Documentation</a> •
 <a href="#-getting-started">Getting started</a> •
 <a href="#-license">License</a>
 
@@ -43,6 +44,12 @@ Pass-in is an application for managing participants in in-person events. The too
 ### Non-functional requirements
 
 - Check-in at the event will be carried out using a QRCode;
+
+
+## API Documentation (Swagger)
+
+For API documentation, visit the link: https://nlw-unite-nodejs.onrender.com/docs
+
 
 ## 💻 Getting started
 
