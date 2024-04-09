@@ -6,7 +6,7 @@
   <a href="#-about-the-project">About the project</a> •
   <a href="#-technologies">Technologies</a> •
   <a href="#-Requirements">Requirements</a> •
-  <a href="#-about-the-project">API Documentation</a> •
+  <a href="#-api-documentation">API Documentation</a> •
 <a href="#-getting-started">Getting started</a> •
 <a href="#-license">License</a>
 
